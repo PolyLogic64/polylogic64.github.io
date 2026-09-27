@@ -1,0 +1,5 @@
+[push]
+
+[[push.remotes]]
+remote = "basalt"
+note = "Basalt mirror"
