@@ -1,5 +1,13 @@
 [push]
 
 [[push.remotes]]
-remote = "basalt"
-note = "Basalt mirror"
+remote = "github"
+note = "GitHub mirror"
+
+[[push.remotes]]
+remote = "github.io"
+note = "GitHub Hosting mirror"
+
+[[push.remotes]]
+remote = "codeberg"
+note = "Codeberg mirror"
